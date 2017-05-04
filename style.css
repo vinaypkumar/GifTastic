@@ -1,0 +1,19 @@
+body{
+	padding: 20px;
+}
+
+.buttonMain {
+	border-radius: 8px;
+	padding: 5px 12px;
+	margin:6px;
+	background-color: #4CAF50;
+	color: #ffffff;
+}
+
+#add{
+	border-radius: 8px;
+	padding: 5px 12px;
+	margin:6px;
+	background-color: #4CAF50;
+	color: #ffffff;
+}
