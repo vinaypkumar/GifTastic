@@ -70,7 +70,7 @@ $(document).ready(function() {
         return;
       }
 
-      console.log("fuck this");
+      
 
       var button=$("<button>");
       button.attr("class", "buttonMain");
